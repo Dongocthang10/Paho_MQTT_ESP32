@@ -1,7 +1,7 @@
 #include <PicoMQTT.h>
 
-#define WIFI_SSID "MAS"
-#define WIFI_PASSWORD "abc123123"
+#define WIFI_SSID "P601"
+#define WIFI_PASSWORD "66668888t6"
 
 
 class MQTT: public PicoMQTT::Server {
